@@ -27,9 +27,9 @@ import org.waastad.web.war.helper.ContainerConfiguration;
  * @author helge
  */
 @RunWith(ApplicationComposer.class)
-public class ServicesResourceIT {
+public class ServicesResourceTest {
 
-    public ServicesResourceIT() {
+    public ServicesResourceTest() {
     }
 
     @Configuration
